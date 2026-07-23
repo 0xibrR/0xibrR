@@ -1,23 +1,35 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%">
+</p>
 
-# 👋 Hi, I'm Ibrahim Ramadan
+<h1 align="center">Hi 👋, I'm Ibrahim Ramadan</h1>
 
-### 💻 Computer Engineer | ☕ Java Developer | 📱 Android Developer | 🔐 Cybersecurity Enthusiast
+<h3 align="center">
+Computer Engineering Student • Java Developer • Android Developer • Cybersecurity Enthusiast
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3FA9F5&center=true&vCenter=true&width=700&lines=Computer+Engineer;Java+Developer;Android+Developer;Cybersecurity+Enthusiast;Always+Learning+New+Technologies"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3500&pause=1000&color=3FA9F5&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Java+Developer;Android+Developer;Cybersecurity+Enthusiast;Building+Practical+Software+Projects"/>
+</p>
 
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=0xibrR&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+
+<img src="https://img.shields.io/github/followers/0xibrR?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/0xibrR?affiliations=OWNER&style=for-the-badge"/>
+</p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
 - 🎓 Computer Engineering Student
-- 💻 Passionate about Software Engineering
-- 📱 Android Developer (Kotlin)
 - ☕ Java & JavaFX Developer
-- 🌐 Networking & Cisco
-- 🔐 Interested in Cybersecurity
+- 📱 Android Developer (Kotlin)
+- 🔐 Passionate about Cybersecurity
+- 🌐 Networking & Linux Enthusiast
+- 🚀 Building practical software projects
 - 📚 Always learning new technologies
 
 ---
@@ -26,15 +38,19 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,c,cpp,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,c,cpp"/>
 
-<br><br>
+<br>
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,mysql,sqlite,firebase"/>
 
-<br><br>
+<br>
 
-<img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,github,linux,figma"/>
+<img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,figma"/>
 
 </p>
 
@@ -42,65 +58,23 @@
 
 # 🚀 Featured Projects
 
-## 💳 TalibPay
-
-Student Payment Management System
-
-- Kotlin
-- Firebase
-- Material Design
-- Authentication
-- Dashboard
+| Project | Description |
+|---------|-------------|
+| 💳 **TalibPay** | Student Payment Management System using Kotlin & Firebase |
+| 🌐 **MikroTik Hotspot Manager** | JavaFX Desktop Application for Hotspot Management |
+| 🎓 **Student Management System** | JavaFX + MySQL Desktop System |
+| 📱 **Android Applications** | Native Android Apps built with Kotlin |
+| 🌍 **Networking Labs** | Cisco Routing, Switching, ACL, NAT & OSPF |
 
 ---
 
-## 🌐 MikroTik Hotspot Manager
-
-Desktop Application for MikroTik Hotspot Management
-
-- Java
-- JavaFX
-- MySQL
-- PDF Reports
-- QR Code
-
----
-
-## 🎓 Student Management System
-
-Desktop Management System
-
-- JavaFX
-- MySQL
-- Maven
-
----
-
-## 📱 Android Applications
-
-Native Android Apps built with Kotlin & Firebase.
-
----
-
-## 🌍 Networking Projects
-
-Cisco Labs
-
-- VLAN
-- ACL
-- NAT
-- OSPF
-- DHCP
-
----
-
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xibrR&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=0xibrR&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xibrR&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xibrR&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -126,7 +100,7 @@ Cisco Labs
 
 ---
 
-# 🌐 Connect with Me
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -134,7 +108,7 @@ Cisco Labs
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/ibrahim-ramadan-dev">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
