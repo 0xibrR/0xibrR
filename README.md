@@ -2,24 +2,20 @@
 
 # Ibrahim Ramadan
 
-### Computer Engineering Student • Java Developer • Android Developer • Cybersecurity
+**Computer Engineering Student • Java Developer • Android Developer • Cybersecurity Enthusiast**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Developer;Android+Developer;Cybersecurity+Enthusiast;Networking;Always+Learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Java+Developer;Android+Developer;Cybersecurity+Enthusiast;Networking;Always+Learning"/>
 
 <p>
-
-<a href="https://github.com/0xibrR">
-<img src="https://komarev.com/ghpvc/?username=0xibrR&label=Profile+Views&style=flat-square"/>
-</a>
-
-<a href="https://github.com/0xibrR?tab=followers">
-<img src="https://img.shields.io/github/followers/0xibrR?style=flat-square"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ibrahim-ramadan-dev">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/0xibrR">
+    <img src="https://komarev.com/ghpvc/?username=0xibrR&label=Profile+Views&style=flat-square"/>
+  </a>
+  <a href="https://github.com/0xibrR?tab=followers">
+    <img src="https://img.shields.io/github/followers/0xibrR?style=flat-square"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ibrahim-ramadan-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 </div>
@@ -28,7 +24,7 @@
 
 ## About
 
-Computer Engineering student passionate about building practical software solutions and continuously improving my skills in software engineering, networking, and cybersecurity.
+Computer Engineering student with a strong interest in software engineering, Android development, networking, and cybersecurity. I enjoy building practical applications and continuously improving my technical skills through real-world projects.
 
 ---
 
@@ -56,13 +52,34 @@ Computer Engineering student passionate about building practical software soluti
 
 ## Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| **TalibPay** | Student Payment Management System |
-| **MikroTik Hotspot Manager** | JavaFX Desktop Application |
-| **Student Management System** | JavaFX + MySQL |
-| **Android Applications** | Native Android Development |
-| **Networking Labs** | Cisco Routing & Switching |
+### 💳 TalibPay
+Student payment management system built with **Kotlin** and **Firebase**.
+
+🔗 https://github.com/0xibrR/TalibPay
+
+---
+
+### 🌐 MikroTik Hotspot Manager
+Desktop application for managing MikroTik hotspot users using **JavaFX**.
+
+🔗 https://github.com/0xibrR/MikroTik-Hotspot-Manager
+
+---
+
+### 🎓 Student Management System
+Desktop application developed with **JavaFX** and **MySQL**.
+
+🔗 https://github.com/0xibrR/StudentManagementSystem
+
+---
+
+### 📱 Android Applications
+A collection of native Android applications built with Kotlin and Firebase.
+
+---
+
+### 🌍 Networking Labs
+Cisco networking labs covering Routing, Switching, VLANs, ACLs, NAT, and OSPF.
 
 ---
 
@@ -88,7 +105,7 @@ Computer Engineering student passionate about building practical software soluti
 
 ---
 
-## Activity
+## Activity Graph
 
 <p align="center">
 
@@ -105,6 +122,8 @@ Computer Engineering student passionate about building practical software soluti
 <a href="https://github.com/0xibrR">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/ibrahim-ramadan-dev">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
