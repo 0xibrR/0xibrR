@@ -145,7 +145,7 @@ GitHub
 LinkedIn
 </a>
 •
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ibrahimramadan.dev@gmail.com">
 Email
 </a>
 
